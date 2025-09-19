@@ -1,20 +1,20 @@
 # Hi, I am Fatima Usman
-I am a pre Engineering Student
-I Love Learning and building websites
-I have created,
-(Restaurant website)(https://fatimausman36.github.io/Restaurant-page/)
-login page (https://github.com/fatimausman36/login-page)
+I am a pre Engineering Student<br>
+I Love Learning and building websites<br>
+I have created,<br>
+(Restaurant website)(https://fatimausman36.github.io/Restaurant-page/)<br>
+login page (https://github.com/fatimausman36/login-page)<br>
 
-## Skills
-HTML
-CSS
-Javascript
-c++
-python
-ms office 
+## Skills<br>
+HTML<br>
+CSS<br>
+Javascript<br>
+c++<br>
+python<br>
+ms office <br>
 
-## CONTACT
-Email:fatima.div2gmail.com
-Portfolio:fatimausman36.github.io
+## CONTACT<br>
+Email:fatima.div2gmail.com<br>
+Portfolio:fatimausman36.github.io <br>
 
 THANKS FOR VISITING
